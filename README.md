@@ -1,6 +1,7 @@
 # FunkTyperQt
 Source Code Management Utility for C++ , Java, etc. <br>
 Uses Geany Software<br>
+OS:Linux<br>
 <br>
 Required: Qt version 4.8.7<br>
 <br>
