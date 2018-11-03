@@ -20,7 +20,8 @@ b: block<br>
 s: statements<br>
 e: end<br>
 F11: executes - g++ -c output.cpp <br>
-F12: making of output.cpp (rename required for java)<br>
+F12: outputs file -> output.cpp (c++ mode) <br>
+F12: outputs file -> MainActivity.java (java mode) <br>
 Ctrl+c : copy<br>
 Ctrl+v : paste<br>
 Ctrl+d : deselect<br>
